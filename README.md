@@ -16,6 +16,9 @@ The system architecture includes the following components:
 
 ![image](https://github.com/user-attachments/assets/82b45af3-2849-4149-8e12-ac25dc59949f)
 
+
+*Image credit: [Yusuf Ganiyu's GitHub repository](https://github.com/airscholar/e2e-data-engineering/tree/main)*
+
 ## Features
 - Real-time data fetching from an external API.
 - Stream processing with Apache Kafka and Apache Spark.
